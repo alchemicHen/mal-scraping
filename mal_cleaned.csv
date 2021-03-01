@@ -1,0 +1,50 @@
+Score Rank,Title,User Rank,User Rating,Popularity Ranking,Episode Count,Episode Runtime,End Date,Time to Watch,Studios,Genres,Status
+1,Fullmetal Alchemist: Brotherhood,1,9.191,"2,265,241",64,24,2010,25.6,['Bones'],"['Action', 'Military', 'Adventure', 'Comedy', 'Drama', 'Magic', 'Fantasy', 'Shounen']",Finished Airing
+2,Shingeki no Kyojin: The Final Season,2,9.161,"775,481",16,23,2020,6.13,['MAPPA'],"['Action', 'Military', 'Mystery', 'Super Power', 'Drama', 'Fantasy', 'Shounen']",Currently Airing
+3,Shingeki no Kyojin Season 3 Part 2,3,9.111,"1,110,912",10,23,2019,3.83,['Wit Studio'],"['Action', 'Drama', 'Fantasy', 'Military', 'Mystery', 'Shounen', 'Super Power']",Finished Airing
+4,Steins;Gate,4,9.111,"1,795,409",24,24,2011,9.6,['White Fox'],"['Thriller', 'Sci-Fi']",Finished Airing
+5,Gintama°,5,9.101,"409,268",51,24,2016,20.4,['Bandai Namco Pictures'],"['Action', 'Comedy', 'Historical', 'Parody', 'Samurai', 'Sci-Fi', 'Shounen']",Finished Airing
+6,Hunter x Hunter (2011),6,9.091,"1,705,864",148,23,2014,56.73,['Madhouse'],"['Action', 'Adventure', 'Fantasy', 'Shounen', 'Super Power']",Finished Airing
+7,Ginga Eiyuu Densetsu,7,9.071,"231,729",110,26,1997,47.67,"['Artland', '      Magic Bus ']","['Military', 'Sci-Fi', 'Space', 'Drama']",Finished Airing
+8,Gintama',14,8.961,"763,162",201,24,2010,80.4,['Sunrise'],"['Action', 'Comedy', 'Historical', 'Parody', 'Samurai', 'Sci-Fi', 'Shounen']",Finished Airing
+9,Gintama': Enchousen,9,9.041,"224,234",13,24,2013,5.2,['Sunrise'],"['Action', 'Comedy', 'Historical', 'Parody', 'Samurai', 'Sci-Fi', 'Shounen']",Finished Airing
+10,3-gatsu no Lion 2nd Season,10,9.001,"269,451",22,25,2018,9.17,['Shaft'],"['Drama', 'Game', 'Seinen', 'Slice of Life']",Finished Airing
+11,Koe no Katachi,11,9.001,"1,401,573",1,130,2016,2.17,['Kyoto Animation'],"['Drama', 'School', 'Shounen']",Finished Airing
+12,Gintama.,14,8.961,"763,162",201,24,2010,80.4,['Sunrise'],"['Action', 'Comedy', 'Historical', 'Parody', 'Samurai', 'Sci-Fi', 'Shounen']",Finished Airing
+13,Clannad: After Story,13,8.961,"920,178",24,24,2009,9.6,['Kyoto Animation'],"['Slice of Life', 'Comedy', 'Supernatural', 'Drama', 'Romance']",Finished Airing
+14,Gintama,14,8.961,"763,162",201,24,2010,80.4,['Sunrise'],"['Action', 'Comedy', 'Historical', 'Parody', 'Samurai', 'Sci-Fi', 'Shounen']",Finished Airing
+15,Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare,15,8.961,"172,186",1,110,2013,1.83,['Sunrise'],"['Action', 'Sci-Fi', 'Comedy', 'Historical', 'Parody', 'Samurai', 'Shounen']",Finished Airing
+16,Kimi no Na wa.,16,8.961,"1,752,011",1,106,2016,1.77,['CoMix Wave Films'],"['Romance', 'Supernatural', 'School', 'Drama']",Finished Airing
+17,Owarimonogatari 2nd Season,17,8.931,"275,208",7,22,2017,2.57,['Shaft'],"['Mystery', 'Comedy', 'Supernatural', 'Vampire']",Finished Airing
+19,Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,19,8.871,"737,417",10,24,2016,4.0,['Production I.G'],"['Comedy', 'Sports', 'Drama', 'School', 'Shounen']",Finished Airing
+20,Gintama.: Shirogane no Tamashii-hen - Kouhan-sen,20,8.861,"116,237",14,24,2018,5.6,['Bandai Namco Pictures'],"['Action', 'Sci-Fi', 'Comedy', 'Historical', 'Parody', 'Samurai', 'Shounen']",Finished Airing
+21,Gintama: The Final,21,8.851,"31,187",1,104,2021,1.73,['Bandai Namco Pictures'],"['Action', 'Sci-Fi', 'Comedy', 'Historical', 'Parody', 'Drama', 'Samurai', 'Shounen']",Finished Airing
+22,Mob Psycho 100 II,22,8.841,"849,254",13,24,2019,5.2,['Bones'],"['Action', 'Slice of Life', 'Comedy', 'Supernatural']",Finished Airing
+23,Kizumonogatari III: Reiketsu-hen,23,8.821,"314,337",1,83,2017,1.38,['Shaft'],"['Action', 'Mystery', 'Supernatural', 'Vampire']",Finished Airing
+24,Sen to Chihiro no Kamikakushi,24,8.821,"1,266,636",1,125,2001,2.08,['Studio Ghibli'],"['Adventure', 'Supernatural', 'Drama']",Finished Airing
+25,Gintama.: Shirogane no Tamashii-hen,20,8.861,"116,237",14,24,2018,5.6,['Bandai Namco Pictures'],"['Action', 'Sci-Fi', 'Comedy', 'Historical', 'Parody', 'Samurai', 'Shounen']",Finished Airing
+26,Fate/stay night Movie: Heaven's Feel - III. Spring Song,26,8.791,"129,392",1,122,2020,2.03,['ufotable'],"['Action', 'Supernatural', 'Magic', 'Fantasy']",Finished Airing
+27,Cowboy Bebop,27,8.781,"1,260,658",26,24,1999,10.4,['Sunrise'],"['Action', 'Adventure', 'Comedy', 'Drama', 'Sci-Fi', 'Space']",Finished Airing
+28,Monogatari Series: Second Season,28,8.781,"512,140",26,24,2013,10.4,['Shaft'],"['Mystery', 'Comedy', 'Supernatural', 'Romance', 'Vampire']",Finished Airing
+29,Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen,29,8.781,"141,326",12,24,2017,4.8,['Studio Deen'],"['Drama', 'Historical', 'Josei']",Finished Airing
+30,Monster,30,8.761,"625,154",74,24,2005,29.6,['Madhouse'],"['Drama', 'Horror', 'Mystery', 'Police', 'Psychological', 'Seinen', 'Thriller']",Finished Airing
+31,Mushishi Zoku Shou 2nd Season,31,8.761,"200,080",10,23,2014,3.83,['Artland'],"['Adventure', 'Fantasy', 'Historical', 'Mystery', 'Seinen', 'Slice of Life', 'Supernatural']",Finished Airing
+32,Hajime no Ippo,69,8.601,"176,855",25,22,2014,9.17,"['Madhouse', '      MAPPA ']","['Comedy', 'Sports', 'Drama', 'Shounen']",Finished Airing
+33,Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen,138,8.431,"936,720",12,25,2019,5.0,['A-1 Pictures'],"['Comedy', 'Psychological', 'Romance', 'School', 'Seinen']",Finished Airing
+34,Made in Abyss,34,8.741,"871,261",13,25,2017,5.42,['Kinema Citrus'],"['Sci-Fi', 'Adventure', 'Mystery', 'Drama', 'Fantasy']",Finished Airing
+35,Made in Abyss Movie 3: Fukaki Tamashii no Reimei,35,8.741,"219,807",1,105,2020,1.75,['Kinema Citrus'],"['Sci-Fi', 'Adventure', 'Mystery', 'Drama', 'Fantasy']",Finished Airing
+36,Shigatsu wa Kimi no Uso,36,8.741,"1,464,207",22,22,2015,8.07,['A-1 Pictures'],"['Drama', 'Music', 'Romance', 'School', 'Shounen']",Finished Airing
+37,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,37,8.731,"229,337",4,30,1999,2.0,['Studio Deen'],"['Action', 'Historical', 'Drama', 'Romance', 'Martial Arts', 'Samurai', 'Shounen']",Finished Airing
+38,Haikyuu!! Second Season,38,8.731,"886,969",25,24,2016,10.0,['Production I.G'],"['Comedy', 'Sports', 'Drama', 'School', 'Shounen']",Finished Airing
+39,Code Geass: Hangyaku no Lelouch,18,8.911,"1,280,221",25,24,2008,10.0,['Sunrise'],"['Action', 'Military', 'Sci-Fi', 'Super Power', 'Drama', 'Mecha']",Finished Airing
+40,Kimetsu no Yaiba Movie: Mugen Ressha-hen,40,8.721,"348,223",1,117,2020,1.95,['ufotable'],"['Action', 'Historical', 'Demons', 'Supernatural', 'Shounen']",Finished Airing
+41,Mononoke Hime,41,8.721,"882,677",1,135,1997,2.25,['Studio Ghibli'],"['Action', 'Adventure', 'Fantasy']",Finished Airing
+42,Mushishi Zoku Shou,42,8.721,"228,731",10,24,2014,4.0,['Artland'],"['Adventure', 'Slice of Life', 'Mystery', 'Historical', 'Supernatural', 'Fantasy', 'Seinen']",Finished Airing
+43,Vinland Saga,43,8.711,"680,516",24,24,2019,9.6,['Wit Studio'],"['Action', 'Adventure', 'Drama', 'Historical', 'Seinen']",Finished Airing
+44,Great Teacher Onizuka,44,8.701,"592,496",43,25,2000,17.92,['Studio Pierrot'],"['Slice of Life', 'Comedy', 'Drama', 'School', 'Shounen']",Finished Airing
+45,Mushishi,45,8.691,"623,025",26,25,2006,10.83,['Artland'],"['Adventure', 'Slice of Life', 'Mystery', 'Historical', 'Supernatural', 'Fantasy', 'Seinen']",Finished Airing
+46,Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai,46,8.681,"368,094",1,90,2019,1.5,['CloverWorks'],"['Supernatural', 'Drama', 'Romance', 'School']",Finished Airing
+47,Natsume Yuujinchou Shi,47,8.671,"194,073",13,24,2012,5.2,"[""Brain's Base""]","['Slice of Life', 'Demons', 'Supernatural', 'Drama', 'Shoujo']",Finished Airing
+48,Ashita no Joe 2,48,8.671,"30,614",47,24,1981,18.8,['Tokyo Movie Shinsha'],"['Action', 'Drama', 'Shounen', 'Slice of Life', 'Sports']",Finished Airing
+49,Hajime no Ippo: New Challenger,49,8.671,"203,118",26,23,2009,9.97,['Madhouse'],"['Comedy', 'Sports', 'Drama', 'Shounen']",Finished Airing
+50,Howl no Ugoku Shiro,50,8.671,"859,002",1,119,2004,1.98,['Studio Ghibli'],"['Adventure', 'Drama', 'Fantasy', 'Romance']",Finished Airing

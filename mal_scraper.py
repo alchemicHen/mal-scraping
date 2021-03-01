@@ -248,7 +248,7 @@ if __name__ == "__main__":
     # print(new.airdate)
     # print(new.episode_count)
     # print(new.JSON)
-    print(GetTop())
+    #print(GetTop())
 
-    gintama = MAL('Gintama°')
-    print(gintama.url)
+    anime = MAL('Code Geass: Hangyaku no Lelouch R2')
+    print(anime.url)

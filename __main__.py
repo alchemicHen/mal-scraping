@@ -64,10 +64,7 @@ print(mal_df.head())
 
 #Exporting dataframe to local csv
 os.chdir(r'C:\Users\micha.DESKTOP-U2HVTMF\MyPythonScripts\Jupyter\MAL Scraping\mal-scraping')
-mal_df.to_csv(r'C:\Users\micha.DESKTOP-U2HVTMF\MyPythonScripts\Jupyter\MAL Scraping\mal-scraping\topMAL.csv', index=True)
+mal_df.to_csv(r'C:\Users\micha.DESKTOP-U2HVTMF\MyPythonScripts\Jupyter\MAL Scraping\mal-scraping\topMAL.csv', index=False)
 print('Exported to CSV')
 
 
-#Standardize dates
-#Standardize time to watch
-#EDA: splitting genres
